@@ -1,0 +1,2 @@
+G:\Emerging Technologies\Rohit_300718350_WebSite\Rohit_300718350_WebSite\obj\Debug\HealthApp.njsprojResolveAssemblyReference.cache
+G:\Emerging Technologies\Rohit_300718350_WebSite\Rohit_300718350_WebSite\bin\Microsoft.NodejsTools.WebRole.dll

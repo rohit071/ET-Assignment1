@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "HealthApp", "Rohit_300718350_WebSite\HealthApp.njsproj", "{BD061E81-C967-43A0-8E5B-5E8CC2BD0B22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD061E81-C967-43A0-8E5B-5E8CC2BD0B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD061E81-C967-43A0-8E5B-5E8CC2BD0B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD061E81-C967-43A0-8E5B-5E8CC2BD0B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD061E81-C967-43A0-8E5B-5E8CC2BD0B22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

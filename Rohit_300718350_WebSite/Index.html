@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+
+<html ng-app="website" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+
+    <link href="../CSS/bootstrap.min.css" rel="stylesheet" />
+    <link href="../CSS/reset.css" type="text/css" rel="stylesheet" />
+    <link href="../CSS/main.css" type="text/css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.1/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.7/angular-route.js"></script>
+    <script src="../JS/website.js"></script>
+    
+
+
+
+    <title>Rohit's WebSite</title>
+</head>
+<body ng-controller="MainCtrl">
+    <div id="wrap">
+        <div id="header">
+            <div id="logo">
+                <img src="../Graphics/logo.png" />
+            </div>
+            <div id="banner">
+
+                <img src="../Graphics/banner.png" />
+
+            </div>
+            <div id="container">
+                <div id="menu">
+                    <ul>
+                        <li id="home"><a href="#/home">Home</a></li>
+                        <li id="Data"><a href="#/data">Data</a></li>
+                        <li id="Contact"><a href="#/about">About Us</a></li>
+                        
+                    </ul>
+                </div>
+                <div id="main">
+                    <div ng-view></div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    <div id="footer">
+        Rohit Kumar © | 300718350
+    </div>
+</body>
+</html>
